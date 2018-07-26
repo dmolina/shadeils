@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: ea
+Version: 0.1
+Summary: Package for new DEs in development
+Home-page: https://github.com/dmolina/cec2013lsgo
+Author: Daniel Molina
+Author-email: daniel.molina@uca.es
+License: GPL V3
+Description: =========================================
+        Evolutionary Algorithm package for Python
+        =========================================
+        
+        ea provides a package for several Evolutionary Algorithms for Python.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)

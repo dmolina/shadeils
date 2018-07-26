@@ -1,0 +1,9 @@
+cec2013lsgo==2.1
+numpy==1.15.0rc2
+pandas==0.23.3
+python-dateutil==2.7.3
+pytz==2018.5
+scipy==1.1.0
+six==1.11.0
+
+There are other optional parameters, 
